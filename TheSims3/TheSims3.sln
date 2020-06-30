@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSims3", "TheSims3.csproj", "{DB857FD3-C39E-451F-A0B3-C245B06D360D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLSContentLibrary", "..\XLSContentLibrary\XLSContentLibrary.csproj", "{526AC6B8-84CA-441B-8098-3E81DCD2972A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB857FD3-C39E-451F-A0B3-C245B06D360D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB857FD3-C39E-451F-A0B3-C245B06D360D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB857FD3-C39E-451F-A0B3-C245B06D360D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB857FD3-C39E-451F-A0B3-C245B06D360D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526AC6B8-84CA-441B-8098-3E81DCD2972A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526AC6B8-84CA-441B-8098-3E81DCD2972A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526AC6B8-84CA-441B-8098-3E81DCD2972A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526AC6B8-84CA-441B-8098-3E81DCD2972A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EAAD02F-0F24-402D-9DB1-61132182DB71}
+	EndGlobalSection
+EndGlobal
